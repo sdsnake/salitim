@@ -16,7 +16,7 @@ I am passionate about development and I practice to increase my knowledge with v
 ![JavaScript](https://img.shields.io/badge/TypeScript-blue)
 
 ![Docker](https://img.shields.io/badge/Docker-blue)
-![Aws](https://img.shields.io/badge/Docker-yellow)
+![Aws](https://img.shields.io/badge/AWS-yellow)
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue)
 ![MySQL](https://img.shields.io/badge/MySQL-blue)
