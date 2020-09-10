@@ -33,7 +33,7 @@ I am currently reading the book "clean code", "WOrking effectivelly with Legacy 
 ![My Github Status](https://github-readme-stats.vercel.app/api?username=salitim&show_icons=true&hide_border=true)
 
 ### 🔭 2020 Goal
-Work as developer and increase my C# and python knowledges. Master clean code and easily work with legacy code
+Work as developer and increase my C# and python knowledges. Master clean code easily work with legacy code and finally participate to an opensource project.
 
 ### ☕ Get In Touch
 - [Personal Site](http://portfolio.projectslit.fr)
