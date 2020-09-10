@@ -19,6 +19,7 @@ I am currently reading the book "clean code", "WOrking effectivelly with Legacy 
 
 ![Docker](https://img.shields.io/badge/Docker-blue)
 ![Aws](https://img.shields.io/badge/AWS-yellow)
+![Heroku](https://img.shields.io/badge/heroku-purple)
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue)
 ![MySQL](https://img.shields.io/badge/MySQL-blue)
