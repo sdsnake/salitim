@@ -10,7 +10,7 @@ I am passionate about development and I practice to increase my knowledge with v
 
 ### 👨‍💻 Laguages and Tools
 ![DotNet](https://img.shields.io/badge/dotnet-purple)
-![C#](https://img.shields.io/badge/C#-purple)
+![C#](https://img.shields.io/badge/Csharp-purple)
 ![Flask](https://img.shields.io/badge/Flask-black)
 ![PHP](https://img.shields.io/badge/PHP-blue)
 ![JavaScript](https://img.shields.io/badge/TypeScript-blue)
