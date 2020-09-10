@@ -10,18 +10,19 @@ I am passionate about development and I practice to increase my knowledge with v
 
 ### 👨‍💻 Laguages and Tools
 ![DotNet](https://img.shields.io/badge/dotnet-purple)
-[![Flask] (https://img.shields.io/badge/Flask-black)
-[![PHP](https://img.shields.io/badge/PHP-blue)
-[![JavaScript](https://img.shields.io/badge/TypeScript-blue)
+![C#](https://img.shields.io/badge/C#-purple)
+![Flask](https://img.shields.io/badge/Flask-black)
+![PHP](https://img.shields.io/badge/PHP-blue)
+![JavaScript](https://img.shields.io/badge/TypeScript-blue)
 
-[![Docker](https://img.shields.io/badge/Docker-blue)
-[![Aws](https://img.shields.io/badge/Docker-yellow)
+![Docker](https://img.shields.io/badge/Docker-blue)
+![Aws](https://img.shields.io/badge/Docker-yellow)
 
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue)
-[![MySQL](https://img.shields.io/badge/MySQL-blue)
-[![Git](https://img.shields.io/badge/Git-red)
-[![GitHub](https://img.shields.io/badge/Git-black)
-[![GitLab](https://img.shields.io/badge/GitLab-red)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue)
+![MySQL](https://img.shields.io/badge/MySQL-blue)
+![Git](https://img.shields.io/badge/Git-red)
+![GitHub](https://img.shields.io/badge/Git-black)
+![GitLab](https://img.shields.io/badge/GitLab-red)
 
 
 ### 👀 Choice Repo
