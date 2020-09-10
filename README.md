@@ -25,8 +25,7 @@ I am passionate about development and I practice to increase my knowledge with v
 ![GitLab](https://img.shields.io/badge/GitLab-red)
 
 
-### 👀 Choice Repo
-[![ReadMe Card]
+
 
 ### 🏆 Github Status
 ![My Github Status](https://github-readme-stats.vercel.app/api?username=salitim&show_icons=true&hide_border=true)
@@ -40,3 +39,6 @@ Work as developer and increase my C# and python knowledges. Master clean code an
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=salitim.salitim)
 
 ⭐️
+
+### 👀 Choice Repo
+<img src="http://egeengineering.com/img/slide/downok.gif">
