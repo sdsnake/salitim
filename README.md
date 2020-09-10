@@ -5,6 +5,8 @@
 ### 👋 Hey Guys 
 
 I am passionate about development and I practice to increase my knowledge with various projects.
+I have an associate degree in development and trained via udacity with the nanodegree program bootcamp "fullstack developer". Currently I teach TimCorey expert in DotNet and pluralsight.
+I am currently reading the book "clean code", "WOrking effectivelly with Legacy Code" and "The pragmatic programmer". I am part of a "WealCome" working group where there are development experts.
 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
