@@ -9,21 +9,19 @@ I am passionate about development and I practice to increase my knowledge with v
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
 ### 👨‍💻 Laguages and Tools
-![DotNet](https://img.shields.io/badge/dotnet-purple)\n
-[![Flask] 
-[![PHP]
-[![JavaScript]
+![DotNet](https://img.shields.io/badge/dotnet-purple)
+[![Flask] (https://img.shields.io/badge/Flask-black)
+[![PHP](https://img.shields.io/badge/PHP-blue)
+[![JavaScript](https://img.shields.io/badge/TypeScript-blue)
 
-[![HTML5]
-[![CSS3]
-[![Bootstrap]
-[![Docker]
-[![Aws]
+[![Docker](https://img.shields.io/badge/Docker-blue)
+[![Aws](https://img.shields.io/badge/Docker-yellow)
 
-[![PostgreSQL]
-[![Git]
-[![GitHub]
-[![GitLab]
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue)
+[![MySQL](https://img.shields.io/badge/MySQL-blue)
+[![Git](https://img.shields.io/badge/Git-red)
+[![GitHub](https://img.shields.io/badge/Git-black)
+[![GitLab](https://img.shields.io/badge/GitLab-red)
 
 
 ### 👀 Choice Repo
@@ -40,4 +38,4 @@ Work as developer and increase my C# and python knowledges. Master clean code an
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=salitim.salitim)
 
-⭐️ From [GoogTech](https://github.com/yubuntu0109)
+⭐️
