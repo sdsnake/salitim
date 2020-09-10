@@ -13,7 +13,7 @@ I have an associate degree in development and trained via udacity with the nanod
 ### 👨‍💻 Laguages and Tools
 ![DotNet](https://img.shields.io/badge/dotnet-purple)
 ![C#](https://img.shields.io/badge/Csharp-purple)
-![Flask](https://img.shields.io/badge/Flask-black)
+![Python/Flask](https://img.shields.io/badge/Flask-black)
 ![PHP](https://img.shields.io/badge/PHP-blue)
 ![JavaScript](https://img.shields.io/badge/TypeScript-blue)
 
