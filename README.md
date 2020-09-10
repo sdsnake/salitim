@@ -11,7 +11,7 @@ Happy to share my projects with you ! :fire:
 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
-### 👨‍💻 Laguages and Tools
+### 👨‍💻 Languages and Tools
 ![DotNet](https://img.shields.io/badge/dotnet-purple)
 ![C#](https://img.shields.io/badge/Csharp-purple)
 ![Python/Flask](https://img.shields.io/badge/Flask-black)
