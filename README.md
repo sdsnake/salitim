@@ -6,7 +6,8 @@
 
 I am passionate about development and I practice to increase my knowledge with various projects.
 I have an associate degree in development and trained via udacity with the nanodegree program bootcamp "fullstack developer". Currently I 'm learning TimCorey course expert in DotNet and pluralsight course for Python and C# Path.
-:muscle: I 'm reading the book "clean code", "Working effectivelly with Legacy Code" and "The pragmatic programmer". I am part of a "WealCome" working group where there are development experts. :fire:
+:muscle: I 'm reading the book "clean code", "Working effectivelly with Legacy Code" and "The pragmatic programmer". I am part of a "WealCome" working group where there are development experts. 
+Happy to share my projects with you ! :fire:
 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
