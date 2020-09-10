@@ -9,7 +9,7 @@ I am passionate about development and I practice to increase my knowledge with v
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
 ### 👨‍💻 Laguages and Tools
-![DotNet](https://img.shields.io/badge/-dotnet-000?style=flat&logo=DotNet&logoColor=white)
+![DotNet](https://img.shields.io/badge/dotnet-purple)\n
 [![Flask] 
 [![PHP]
 [![JavaScript]
