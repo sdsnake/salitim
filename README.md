@@ -6,7 +6,7 @@
 
 I am passionate about development and I practice to increase my knowledge with various projects.
 I have an associate degree in development and trained via udacity with the nanodegree program bootcamp "fullstack developer". Currently Im teaching TimCorey course expert in DotNet and pluralsight cours for Python and C# Path.
-I am currently reading the book "clean code", "WOrking effectivelly with Legacy Code" and "The pragmatic programmer". I am part of a "WealCome" working group where there are development experts.
+:muscle: I am currently reading the book "clean code", "WOrking effectivelly with Legacy Code" and "The pragmatic programmer". I am part of a "WealCome" working group where there are development experts. :fire:
 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
@@ -35,7 +35,7 @@ I am currently reading the book "clean code", "WOrking effectivelly with Legacy 
 ![My Github Status](https://github-readme-stats.vercel.app/api?username=salitim&show_icons=true&hide_border=true)
 
 ### 🔭 2020 Goal
-Work as developer and increase my C# and python knowledges. Master clean code easily work with legacy code and finally participate to an opensource project.
+Work as developer and increase my C# and python knowledges. Master clean code easily work with legacy code and finally participate to an opensource project. :fire:
 
 ### ☕ Get In Touch
 - [Personal Site](http://portfolio.projectslit.fr)
