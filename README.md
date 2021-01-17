@@ -5,7 +5,7 @@
 ### 👋 Hey Guys 
 
 I am passionate about development and I practice to increase my knowledge with various projects.
-I have an associate degree in development and trained via udacity with the nanodegree program bootcamp "fullstack developer". Currently I 'm learning TimCorey course expert in DotNet and pluralsight course for Python and C# Path.
+I have an associate degree in development and trained via udacity with the nanodegree program bootcamp "fullstack developer".
 :muscle: I 'm reading the book "clean code", "Working effectivelly with Legacy Code" and "The pragmatic programmer". I am part of a "WealCome" working group where there are development experts. 
 Happy to share my projects with you ! :fire:
 
