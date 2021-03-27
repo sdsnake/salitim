@@ -6,14 +6,12 @@
 
 I am passionate about development and I practice to increase my knowledge with various projects.
 I have an associate degree in development and trained via udacity with the nanodegree program bootcamp "fullstack developer".
-:muscle: I 'm reading the book "clean code", "Working effectivelly with Legacy Code" and "The pragmatic programmer". I am part of a "WealCome" working group where there are development experts. 
+:muscle: I 'm reading the book "clean code".
 Happy to share my projects with you ! :fire:
 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
 ### 👨‍💻 Languages and Tools
-![DotNet](https://img.shields.io/badge/dotnet-purple)
-![C#](https://img.shields.io/badge/Csharp-purple)
 ![Python/Flask](https://img.shields.io/badge/Flask-black)
 ![PHP](https://img.shields.io/badge/PHP-blue)
 ![JavaScript](https://img.shields.io/badge/TypeScript-blue)
@@ -35,8 +33,8 @@ Happy to share my projects with you ! :fire:
 ### 🏆 Github Status
 ![My Github Status](https://github-readme-stats.vercel.app/api?username=salitim&show_icons=true&hide_border=true)
 
-### 🔭 2020 Goal
-Work as developer and increase my C# and python knowledges. Master clean code easily work with legacy code and finally participate to an opensource project. :fire:
+### 🔭 2021 Goal
+Work as developer and increase my knowledges. Master clean code easily work with legacy code and finally participate to an opensource project. :fire:
 
 ### ☕ Get In Touch
 - [Personal Site](http://portfolio.projectslit.fr)
