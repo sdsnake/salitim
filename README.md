@@ -38,6 +38,7 @@ Work as developer and increase my knowledges. Master clean code easily work with
 
 ### ☕ Get In Touch
 - [Personal Site](http://portfolio.projectslit.fr)
+- [My Blog(in french)](https://unruffled-hypatia-ba4f37.netlify.app/)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=salitim.salitim)
 
